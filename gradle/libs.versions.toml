@@ -4,7 +4,7 @@ docker-java = "3.3.0"
 activation = "1.1.1"
 asm = "9.4"
 spock = "2.0-groovy-3.0"
-zt-zip = "1.13"
+zt-zip = "1.18.1"
 commons-vfs2 = "2.9.0"
 
 [plugins]
